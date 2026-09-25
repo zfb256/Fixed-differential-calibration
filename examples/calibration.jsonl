@@ -1,0 +1,2 @@
+{"id": "example-calibration::original", "dataset": "synthetic_demo", "group": "calibration", "premise": "A woman is reading a book.", "hypothesis": "Someone is reading.", "classes": 3, "prompt_variant": "original"}
+{"id": "example-calibration::paraphrase", "dataset": "synthetic_demo", "group": "calibration", "premise": "A woman is reading a book.", "hypothesis": "Someone is reading.", "classes": 3, "prompt_variant": "paraphrase"}

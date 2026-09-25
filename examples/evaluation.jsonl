@@ -1,0 +1,2 @@
+{"id": "example-evaluation::original", "dataset": "synthetic_demo", "group": "evaluation", "premise": "A cat is sitting on a chair.", "hypothesis": "An animal is on a chair.", "classes": 3, "prompt_variant": "original", "label": 0}
+{"id": "example-evaluation::paraphrase", "dataset": "synthetic_demo", "group": "evaluation", "premise": "A cat is sitting on a chair.", "hypothesis": "An animal is on a chair.", "classes": 3, "prompt_variant": "paraphrase", "label": 0}
